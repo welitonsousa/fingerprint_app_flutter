@@ -1,4 +1,4 @@
-# app_beacon
+# fingerprint
 
 A new Flutter project.
 
